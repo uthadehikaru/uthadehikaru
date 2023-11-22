@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zuhriutama
-- 👀 I’m interested in Open Source Projects based on PHP.
-- 🌱 I’m currently learning Laravel framework
-- 💞️ I’m looking to collaborate on Web apps based on PHP especially using Laravel Framework
+- 👀 I’m interested in Open Source Projects, especially on Java and PHP.
+- 💞️ I’m looking to collaborate with Open Source Projects.
 - 📫 contact me via zuhriutama@gmail.com
 
 <!---
